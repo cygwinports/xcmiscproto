@@ -1,6 +1,6 @@
 xcmiscproto
 ------------------------------------------
-Xorg XCMisc protocol headers
+X.Org XCMisc protocol headers
 
 Build requirements:
   cygwin-1.5.20-1
