@@ -1,3 +1,4 @@
 category: X11
+requires:
 sdesc: "X.Org XC-Misc extension headers"
 ldesc: "X.Org XC-Misc extension headers"
